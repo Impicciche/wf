@@ -1,22 +1,22 @@
 <?php
 
-$booleanTrue;
-$booleanFalse;
+$booleanTrue=true;
+$booleanFalse=false;
 
-$int;
+$int=67332;
 
-$float;
+$float=12.45;
 
-$integer;
+$integer=78474;
 
-$double;
+$double=12.473e11;
 
-$string;
+$string="Hello PHP";
 
-$array;
+$array= [12,"baubau"];
 
-$doubleDimenssionArray;
+$doubleDimenssionArray = [array(22.13,12.10,54.87), array(22.13,12.10,54.87)];
 
-$associativeArray;
+$associativeArray = ['footballTeam' => ['juventus','atletico madrid'], 'score' => [0,2]];
 
-$null;
+$null = null;
