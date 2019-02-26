@@ -1,7 +1,7 @@
 <?php
 
 
-function getAllMondaysOfMonth(int $year, int $month) : array 
+function getAllMondaysOfMonth(int $year, int $month) : array
 {
     $selectedDate = new DateTime($year . "-" . $month . "-" . "01");
 
